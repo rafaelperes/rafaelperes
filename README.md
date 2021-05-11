@@ -1,9 +1,9 @@
 ### Hi there! I'm Rafael 👋
 Phd Candidate in Computer Science at [School of Computing, National University of Singapore](www.comp.nus.edu.sg)
 
-Affiliated to [Genome Institute of Singapore](www.gis.a-star.edu.sg)
+Affiliated to [Genome Institute of Singapore](https://www.gis.a-star.edu.sg)
 
-[Google Scholar](https://scholar.google.com/citations?user=w12iyzIAAAAJ&hl=en) | [Personal Webpage](rafaelperes.github.op)
+[Google Scholar](https://scholar.google.com/citations?user=w12iyzIAAAAJ&hl=en) | [Personal Webpage](https://rafaelperes.github.op)
 
 [![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelperes)](https://github.com/anuraghazra/github-readme-stats)
 
