@@ -1,7 +1,6 @@
 ### Hi there! I'm Rafael 👋
-Phd Candidate in Computer Science at [School of Computing, National University of Singapore](https://www.comp.nus.edu.sg)
 
-Affiliated to [Genome Institute of Singapore](https://www.gis.a-star.edu.sg)
+Im a postdoctoral research fellow affiliated to [Genome Institute of Singapore](https://www.gis.a-star.edu.sg)
 
 [Google Scholar](https://scholar.google.com/citations?user=w12iyzIAAAAJ&hl=en) | [Personal Webpage](https://rafaelperes.github.io)
 
